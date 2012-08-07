@@ -19,7 +19,7 @@
 //define('DB_DRIVER', 'postgres');
 
 /** The name of the database for WordPress */
-define('DB_NAME', 'wpdb');
+define('DB_NAME', 'app6504546');
 
 /** MySQL database username */
 define('DB_USER', 'app6504546');
@@ -28,7 +28,7 @@ define('DB_USER', 'app6504546');
 define('DB_PASSWORD', '97120131');
 
 /** MySQL hostname */
-define('DB_HOST', 'int.instance23558.db.xeround.com:15369');
+define('DB_HOST', 'instance23558.db.xeround.com:15369');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
