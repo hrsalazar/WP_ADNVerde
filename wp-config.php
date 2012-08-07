@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The type of driver*/
-define('DB_DRIVER', 'pgsql');
+define('DB_DRIVER', 'postgres');
 
 /** The name of the database for WordPress */
 define('DB_NAME', 'd673tlkf579c7m');
