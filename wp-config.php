@@ -16,19 +16,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The type of driver*/
-define('DB_DRIVER', 'postgres');
+//define('DB_DRIVER', 'postgres');
 
 /** The name of the database for WordPress */
-define('DB_NAME', 'd673tlkf579c7m');
+define('DB_NAME', 'wpdb');
 
 /** MySQL database username */
-define('DB_USER', 'rqzjajtkgidrcn');
+define('DB_USER', 'app6504546');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'r3BsY9FK7utpUfYvfAG4Q_YxL4');
+define('DB_PASSWORD', '97120131');
 
 /** MySQL hostname */
-define('DB_HOST', 'ec2-107-21-108-67.compute-1.amazonaws.com:5432');
+define('DB_HOST', 'int.instance23558.db.xeround.com:15369');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
