@@ -19,19 +19,19 @@
 //define('DB_DRIVER', 'postgres');
 
 /** The name of the database for WordPress */
-define('DB_NAME', 'adnverde');
-//define('DB_NAME', 'app6504546');
+//define('DB_NAME', 'adnverde');
+define('DB_NAME', 'app7148691');
 
 /** MySQL database username */
-define('DB_USER', 'root');
-//define('DB_USER', 'app6504546');
+//define('DB_USER', 'root');
+define('DB_USER', 'app7148691');
 
 /** MySQL database password */
 define('DB_PASSWORD', '97120131');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
-//define('DB_HOST', 'instance23558.db.xeround.com:15369');
+//define('DB_HOST', 'localhost');
+define('DB_HOST', 'instance26380.db.xeround.com:8709');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
