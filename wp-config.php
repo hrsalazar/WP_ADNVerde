@@ -20,7 +20,7 @@
 
 /** The name of the database for WordPress */
 //define('DB_NAME', 'adnverde');
-define('DB_NAME', 'app7148691');
+define('DB_NAME', 'adnverdedb');
 
 /** MySQL database username */
 //define('DB_USER', 'root');
