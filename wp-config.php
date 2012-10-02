@@ -31,7 +31,7 @@ define('DB_PASSWORD', '97120131');
 
 /** MySQL hostname */
 //define('DB_HOST', 'localhost');
-define('DB_HOST', 'instance27547.db.xeround.com:18030');
+define('DB_HOST', 'instance27927.db.xeround.com:18272');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
